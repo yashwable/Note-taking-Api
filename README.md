@@ -1,5 +1,28 @@
-API Endpoints:
-• Create Note: Endpoint to add a new note to the database.
-• Retrieve Notes: Endpoint to get a list of all notes, with an option to retrieve a single note by its ID.
-• Update Note: Endpoint to update the content of an existing note.
-• Delete Note: Endpoint to delete a note from the database.
+# Note-taking API
+
+## Description
+
+This is a simple Note-taking API built with Node.js, Express.js, and MongoDB. It allows users to create, read, update, and delete notes.
+
+## Installation
+
+1. Clone the repository:
+   ```
+   git clone <your-repo-link>
+   ```
+2. Install the dependencies:
+   ```
+   npm install
+   ```
+
+## Usage
+
+Start the server:
+
+```
+npm start
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
