@@ -8,7 +8,7 @@ This is a simple Note-taking API built with Node.js, Express.js, and MongoDB. It
 
 1. Clone the repository:
    ```
-   git clone <your-repo-link>
+   git clone https://github.com/yashwable/Note-taking-Api.git
    ```
 2. Install the dependencies:
    ```
